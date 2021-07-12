@@ -1,6 +1,4 @@
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+###### SenSys 2020
 1. Item 1
 1. Item 2
 1. Item 3
