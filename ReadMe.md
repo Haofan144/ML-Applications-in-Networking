@@ -1,8 +1,5 @@
 #### SenSys 2020
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
+1. Shuya Ding, Zhe Chen, Tianyue Zheng, Jun Luo.
+   "RF-Net: A Unified Meta-Learning Framework for RF-enabled One-Shot Human Activity Recognition."
 http://github.com - automatic!
 [GitHub](http://github.com)
