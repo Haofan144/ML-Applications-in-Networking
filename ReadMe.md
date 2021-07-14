@@ -1,3 +1,5 @@
+This is a repository for organizing articles related to deep learning-based applications in wireless networking in recent years. 
+
 ### SenSys 2020
 1. Shuya Ding, Zhe Chen, Tianyue Zheng, Jun Luo.
    
