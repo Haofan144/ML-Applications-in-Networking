@@ -12,6 +12,11 @@
    
    "Learning Longterm Representations for Person Re-Identification Using Radio Signals."
    
+### NSDI 2020
+1. Unsoo Ha, Junshan Leng, and Alaa Khaddaj, Fadel Adib.
+   
+   "Food and Liquid Sensing in Practical Environments using RFIDs."
+   
 ### Ubicomp 2021
 1. Chao Feng, Jie Xiong, Liqiong Chang, Fuwei Wang, Ju Wang, Dingyi Fang.
    
