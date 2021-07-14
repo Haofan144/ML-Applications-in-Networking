@@ -23,6 +23,7 @@ This is a repository for organizing articles related to deep learning-based appl
 1. Unsoo Ha, Junshan Leng, and Alaa Khaddaj, Fadel Adib.
    
    "Food and Liquid Sensing in Practical Environments using **RFIDs**."
+   - Using VAE to generalize to other domains
    
 ### Ubicomp 2021
 1. Chao Feng, Jie Xiong, Liqiong Chang, Fuwei Wang, Ju Wang, Dingyi Fang.
