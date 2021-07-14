@@ -8,7 +8,7 @@ This is a repository for organizing articles related to deep learning-based appl
 ### SenSys 2020
 1. Shuya Ding, Zhe Chen, Tianyue Zheng, Jun Luo.
    
-   "RF-Net: A Unified Meta-Learning Framework for RF-enabled One-Shot Human Activity Recognition." [pdf](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://dl.acm.org/doi/pdf/10.1145/3384419.3430735)
+   "RF-Net: A Unified Meta-Learning Framework for RF-enabled One-Shot Human Activity Recognition." [pdf](https://dl.acm.org/doi/pdf/10.1145/3384419.3430735)
    
 2. Abdelwahed Khamis, Branislav Kusy, Chun Tung Chou, Mary-Louise McLaws, Wen Hu.
    
