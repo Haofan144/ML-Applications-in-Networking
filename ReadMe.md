@@ -17,7 +17,7 @@ This is a repository for organizing articles related to deep learning-based appl
 ### CVPR 2020
 1. Lijie Fan, Tianhong Li, Rongyao Fang, Rumen Hristov, Yuan Yuan, Dina Katabi.
    
-   "Learning Longterm Representations for **Person Re-Identification** Using Radio Signals."
+   "Learning Longterm Representations for **Person Re-Identification** Using Radio Signals." [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Learning_Longterm_Representations_for_Person_Re-Identification_Using_Radio_Signals_CVPR_2020_paper.pdf)
    
 ### NSDI 2020
 1. Unsoo Ha, Junshan Leng, and Alaa Khaddaj, Fadel Adib.
