@@ -1,5 +1,10 @@
 This is a repository for organizing articles related to deep learning-based applications in wireless networking in recent years. 
 
+### SenSys 2019
+1. Shuya Ding, Zhe Chen, Tianyue Zheng, Jun Luo.
+   
+   "**RFID** Based Real-time Recognition of ongoing Gesture with Adversarial Learning"
+   
 ### SenSys 2020
 1. Shuya Ding, Zhe Chen, Tianyue Zheng, Jun Luo.
    
