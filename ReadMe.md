@@ -3,7 +3,9 @@ This is a repository for organizing articles related to deep learning-based appl
 ### IEEE Sensors Journal
 - Mohamed Abudulaziz Ali Haseeb, Ramviyas Parasuraman.
   
-  ”Wisture: Touch-less Hand Gesture Classification in Unmodified Smartphones Using Wi-Fi Signals“
+  ”Wisture: Touch-less Hand Gesture Classification in Unmodified Smartphones Using Wi-Fi Signals“ [github]
+  (https://github.com/mohaseeb/wisture)
+   - Train a LSTM-RNN network using WiFi RSSI for recognizing over-the-air hand gestures (such as swipe, push, pull, etc.) 
 
 ### SenSys 2019
 - Yinggang Yu, Dong Wang, Run Zhao, Qian Zhang.
