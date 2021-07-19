@@ -1,6 +1,6 @@
 This is a repository for organizing articles related to deep learning-based applications in wireless networking in recent years. 
 
-### IEEE Sensors Journal
+### IEEE Sensors Journal 2018
 - Mohamed Abudulaziz Ali Haseeb, Ramviyas Parasuraman.
   
   ”Wisture: Touch-less Hand Gesture Classification in Unmodified Smartphones Using Wi-Fi Signals“ [github](https://github.com/mohaseeb/wisture)
