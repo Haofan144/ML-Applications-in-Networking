@@ -1,6 +1,6 @@
 This is a repository for organizing articles related to deep learning-based applications in wireless networking in recent years. 
 
-#Applications
+# Applications
 
 ### IEEE Sensors Journal 2018
 - Mohamed Abudulaziz Ali Haseeb, Ramviyas Parasuraman.
