@@ -1,5 +1,7 @@
 This is a repository for organizing articles related to deep learning-based applications in wireless networking in recent years. 
 
+#Applications
+
 ### IEEE Sensors Journal 2018
 - Mohamed Abudulaziz Ali Haseeb, Ramviyas Parasuraman.
   
@@ -37,7 +39,7 @@ This is a repository for organizing articles related to deep learning-based appl
    "RF-Identity: Non-Intrusive Person Identification Based on Commodity **RFID Devices**."
 
 
-## Data Augmentation
+# Data Augmentation
 - Terry T. Um, Franz M. J. Pfister, Daniel Pichler, Satoshi Endo, Muriel Lang, Sandra Hirche.
    
    "Data Augmentation ofWearable Sensor Data for Parkinson’s Disease Monitoring using **Convolutional Neural Networks**." (ICMI'17)
