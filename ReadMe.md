@@ -36,3 +36,12 @@ This is a repository for organizing articles related to deep learning-based appl
    
    "RF-Identity: Non-Intrusive Person Identification Based on Commodity **RFID Devices**."
 
+
+## Data Augmentation
+- Terry T. Um, Franz M. J. Pfister, Daniel Pichler, Satoshi Endo, Muriel Lang, Sandra Hirche.
+   
+   "Data Augmentation ofWearable Sensor Data for Parkinson’s Disease Monitoring using **Convolutional Neural Networks**." (ICMI'17)
+   
+- K.M. Rashida and J.Louisa.
+
+   "Window-Warping: A Time Series Data Augmentation of IMU Data for Construction Equipment Activity Identification." (ISARC'19)
